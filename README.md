@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-(https://github.com/Ahmad-Kanj/Frontend-Mentor-3-column-preview-card-component/blob/main/Screenshot 2.png)
-(https://github.com/Ahmad-Kanj/Frontend-Mentor-3-column-preview-card-component/blob/main/Screenshot 1.png)
+(https://github.com/Ahmad-Kanj/Frontend-Mentor-3-column-preview-card-component/blob/main/Screenshot%202.png)
+(https://github.com/Ahmad-Kanj/Frontend-Mentor-3-column-preview-card-component/blob/main/Screenshot%201.png)
 
 ### Links
 
