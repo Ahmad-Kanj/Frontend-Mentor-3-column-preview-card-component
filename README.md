@@ -24,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 (https://github.com/Ahmad-Kanj/Frontend-Mentor-3-column-preview-card-component/blob/main/ScreenShot%201.png)
+
 (https://github.com/Ahmad-Kanj/Frontend-Mentor-3-column-preview-card-component/blob/main/ScreenShot%202.png)
 
 ### Links
