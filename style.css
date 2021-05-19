@@ -94,6 +94,7 @@ html {
   }
 
   .container {
+    align-self: center;
     width: 95vw;
     display: block;
     height: auto;
